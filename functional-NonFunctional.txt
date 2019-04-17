@@ -1,0 +1,15 @@
+Web ini digunakan untuk pemesanan dan pembelian sparepart
+  Functional Requirements :
+  1. Pelanggan dapat melihat-lihat produk yang diinginkannya didalam sistem
+  2. Pelanggan dapat memesan produk yang dinginkannya didalam sistem
+  3. Sistem akan menampilkan instruksi untuk meminta kepada pelanggan mengisi data diri terlebih dahulu sebelum pesanan dibuat
+  4. Sistem akan meminta pelanggan untuk melakukan konfirmasi dengan memasukkan kode yang akan dikirim melalui sms pada nomor handphone yang tertera pada saat pengisian data diri.
+  5. Sistem bisa menampilkan jumlah/total harga pesananan yang di pesan oleh pelanggan, 
+     dan sistem akan menyediakan tampilan menu untuk pembayarannya melalui cash (transfer) ataupun kredit
+  6. Dalam sistem tersedia instruksi untuk menampilkan status pesanan
+  
+  Non-Functional Requirements :
+  1. Penambahan data dilakukan saat pelanggan telah melakukan transaksi pembayaran 
+  2. Sistem aplikasi ini dapat dioperasikan dalam 24 jam setiap harinya 
+  3. Data akan di-filter sehingga data yang tidak valid tidak akan masuk ke dalam database/server
+  4. Data yang telah berhasil di-inputkan akan otomatis tersimpan pada server 
