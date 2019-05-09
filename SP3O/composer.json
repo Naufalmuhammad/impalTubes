@@ -1,0 +1,9 @@
+{
+
+"require" : {
+
+	},
+"require-dev" : {
+		"codeception/codeception": "^3.0"
+	}
+}
